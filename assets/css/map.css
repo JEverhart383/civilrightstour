@@ -1,0 +1,36 @@
+		body {
+		    padding: 0;
+		    padding-top: 70px;
+		    margin: 0;
+		    margin-bottom: -20px;
+		    background-color: #90d4d5; 
+		}
+
+		html, body, #map {
+		    height: 100%;
+		}
+
+		#map{
+			margin-top: -20px;
+		}
+		.navbar {
+			margin-bottom: 0;
+		}
+
+		.navbar-default {
+			background-color: #90d4d5;
+			border-color: #90d4d5;
+		}
+
+		.navbar-brand a {
+			text-decoration: none;
+			color: #303434;;
+		}
+		.navbar-default, 
+		.navbar-default .navbar-brand{
+			color: #303434;
+		} 
+
+		.btn-default {
+			color: #303434;
+		}
