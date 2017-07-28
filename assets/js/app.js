@@ -85,8 +85,8 @@ window.motonWalkingTour =  {
     }, 
     {
         name: "J.J. Newberry Co. Department Store", 
-        lat: 37.3027297156279, 
-        long: -78.3926264104232, 
+        lat: 37.302500596304704, 
+        long: -78.39237394749968, 
         desc: "On Friday, July 26, 1963, twelve young African-Americans from Prince Edward County staged a sit-in at the lunch counter in the J. J. Newberry Co. department store formerly located here.", 
         link: "<a href='/places/jj-newberry.html'>Learn More <span class='glyphicon glyphicon-chevron-right'></span></a>"
     }, 
