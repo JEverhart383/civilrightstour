@@ -105,7 +105,7 @@ window.motonWalkingTour =  {
         link: "<a href='/places/farmville-herald-offices.html'>Learn More <span class='glyphicon glyphicon-chevron-right'></span></a>"
     }, 
     {
-        name: "Farmville Methodist Church/Confederate Statue", 
+        name: "Farmville Methodist Church", 
         lat: 37.30179739653813, 
         long: -78.395375255556833, 
         desc: "The site of Methodist worship since 1832, Farmville United Methodist's current building was constructed in 1907.", 
